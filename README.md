@@ -1,5 +1,5 @@
 Live example:
-[steamystats.com/practise/angular/angular-tour-of-heroes/](steamystats.com/practise/angular/angular-tour-of-heroes/)
+[steamystats.com/practise/angular/angular-tour-of-heroes/](http://steamystats.com/practise/angular/angular-tour-of-heroes/)
 
 # AngularTourOfHeroes
 
